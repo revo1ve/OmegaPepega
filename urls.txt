@@ -1,0 +1,4 @@
+http://static.feed.rbc.ru/rbc/logical/footer/news.rss <> article__text
+https://ria.ru/export/rss2/archive/index.xml <> article__text
+https://www.vedomosti.ru/rss/news <> paragraph__text
+https://www.bfm.ru/news.rss <> current-article
