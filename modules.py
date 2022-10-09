@@ -5,7 +5,6 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 import math
 from rake_nltk import Rake
-import fasttext
 from sklearn.metrics.pairwise import cosine_distances
 import jieba
 from gensim import corpora, models, similarities

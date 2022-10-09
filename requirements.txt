@@ -1,0 +1,13 @@
+flask
+python-dateutil
+fasttext
+sklearn
+jieba
+gensim
+rake_nltk
+sklearn
+numpy
+pandas
+tqdm
+rutermextract
+beautifulsoup4

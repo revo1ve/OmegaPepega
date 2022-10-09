@@ -1,5 +1,4 @@
 from flask import Flask, request, jsonify
-import json
 from dateutil.parser import parse
 from news_base import NewsBase
 from modules import get_topics_dynamic, extract_terms, get_time_series_trend, get_most_popular, get_coef, \
